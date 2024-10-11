@@ -10,3 +10,5 @@ paragrafo.innerHTML = `Você Sabia que o mundo tem ${dados.total_pessoas_mundo} 
 const container = document.getElementById( ' graficos-container')
 container.appendChild(paragrafo)
 } 
+
+visualizarinformacoesGlobais()
